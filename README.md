@@ -1,2 +1,2 @@
-get good bro
 # uchicago-cs-git-tutorial
+# Jorge Azagra: jazagra
